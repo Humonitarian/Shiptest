@@ -1,0 +1,20 @@
+{
+	"map_name": "Daedalus Research and Exploration Vessel",
+	"map_short_name": "Catboy-class",
+	"map_path": "_maps/shuttles/shiptest/catboy_class.dmm",
+	"map_id": "catboy_class",
+	"job_slots": {
+		"Captain": 1,
+		"Head of Personnel": 1,
+		"Quartermaster": 1,
+		"Botanist": 1,
+		"Medical Doctor": 2,
+		"Chemist": 1,
+		"Scientist": 1,
+		"Roboticist": 1,
+		"Station Engineer": 2,
+		"Security Officer": 1,
+		"Cargo Technician": 3
+	},
+	"cost": 750
+}
